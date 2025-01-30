@@ -257,7 +257,7 @@ nav {
         right: 20px;
         background: none;
         border: none;
-        color: white; /* Adjust color as needed */
+        color: #0c4b60; /* Adjust color as needed */
         z-index: 1000; /* Ensures it stays above other elements */
     }
 
